@@ -1,7 +1,7 @@
 # statbattler
 App to create and battler characters.
 
-### init
+### Init
 - run {npm i} to install the required packages
 - install pgadmin if you don't have it installed already
   - this is for the postgresql database
